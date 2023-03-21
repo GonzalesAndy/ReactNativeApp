@@ -5,9 +5,10 @@ import Carousel, { Pagination } from 'react-native-snap-carousel';
 
 // Replace with the actual path to your images
 const carouselImages = [
-  require('./assets/icon.png'),
-  require('./assets/icon.png'),
-  require('./assets/icon.png'),
+  require('./assets/carreraGt.jpg'),
+  require('./assets/cayenne.png'),
+  require('./assets/r8-2021.jpg'),
+  require('./assets/supra.jpg'),
 ];
 
 export default function App() {
