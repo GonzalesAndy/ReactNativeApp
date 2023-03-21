@@ -1,24 +1,48 @@
 import React from 'react';
-import { View, Text, TextInput, TouchableOpacity, StyleSheet, Image } from 'react-native';
+import {View, Text, TextInput, TouchableOpacity, StyleSheet, Image, KeyboardAvoidingView} from 'react-native';
 import Icon from 'react-native-vector-icons/Ionicons';
 import Carousel, { Pagination } from 'react-native-snap-carousel';
 
 // Replace with the actual path to your images
 const carouselImages = [
-  require('./assets/carreraGt.jpg'),
-  require('./assets/cayenne.png'),
-  require('./assets/r8-2021.jpg'),
-  require('./assets/supra.jpg'),
+  {
+    image:   require('./assets/carreraGt.jpg'),
+    modelName: 'Porsche Carrera GT',
+
+  },
+  {
+    image: require('./assets/cayenne.png'),
+    modelName: 'Porsche Cayenne',
+  },
+  {
+    image:   require('./assets/r8-2021.jpg'),
+
+    modelName: 'Audi r8',
+  },
+  {
+    image: require('./assets/supra.jpg'),
+    modelName: 'Toyota GR Supra',
+  },
+
 ];
 
 export default function App() {
   const [activeSlide, setActiveSlide] = React.useState(0);
 
   const renderItem = ({ item }) => (
-    <Image source={item} style={styles.carouselImage} />
+    <View style={styles.carouselCard}>
+      <Image source={item.image} style={styles.carouselImage} />
+      <Text style={styles.carouselModelName}>{item.modelName}</Text>
+    </View>
   );
+  
 
   return (
+    <KeyboardAvoidingView
+        style={{ flex: 1 }}
+        behavior={Platform.OS === 'ios' ? 'padding' : 'height'}
+        keyboardVerticalOffset={-300}
+      >
     <View style={styles.container}>
       <Text style={styles.title}>Car'Spoter</Text>
 
@@ -46,6 +70,12 @@ export default function App() {
         onSnapToItem={(index) => setActiveSlide(index)}
         containerCustomStyle={{flexGrow: 0}}
         contentContainerCustomStyle={styles.carouselContentContainer}
+        loop={true}
+        autoplay={true}
+        autoplayDelay={1500}
+        autoplayInterval={3000}
+
+        shouldOptimizeUpdates={true}
       />
 
       <View style={styles.paginationWrapper}>
@@ -77,6 +107,7 @@ export default function App() {
         <Icon name="person" size={25} color="#A0A0A0" />
       </View>
     </View>
+    </KeyboardAvoidingView>
   );
 }
 
@@ -91,6 +122,26 @@ const styles = StyleSheet.create({
     fontSize: 24,
     fontWeight: 'bold',
     marginVertical: 20,
+  },
+  carouselCard: {
+    backgroundColor: '#E0E0E0',
+    borderRadius: 10,
+    shadowColor: '#A0A0A0',
+    shadowOffset: {
+      width: -1,
+      height: -1,
+    },
+    shadowOpacity: 0.2,
+    shadowRadius: 2,
+    elevation: 5,
+    alignItems: 'center',
+    padding: 10,
+    marginBottom: 10,
+  },
+  carouselModelName: {
+    marginTop: 10,
+    fontSize: 16,
+    fontWeight: 'bold',
   },
   inputContainer: {
     flexDirection: 'row',
