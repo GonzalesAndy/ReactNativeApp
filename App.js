@@ -45,6 +45,7 @@ export default function App() {
         itemWidth={300}
         onSnapToItem={(index) => setActiveSlide(index)}
         containerCustomStyle={{flexGrow: 0}}
+        contentContainerCustomStyle={styles.carouselContentContainer}
       />
 
       <View style={styles.paginationWrapper}>
@@ -94,7 +95,8 @@ const styles = StyleSheet.create({
   inputContainer: {
     flexDirection: 'row',
     alignItems: 'center',
-    paddingHorizontal: 10,
+    paddingHorizontal: 20,
+    paddingVertical: 10,
     backgroundColor: '#E0E0E0',
     borderRadius: 10,
     shadowColor: '#A0A0A0',
@@ -114,6 +116,8 @@ const styles = StyleSheet.create({
     paddingHorizontal: 5,
   },
   carouselContentContainer: {
+    marginTop: 30,
+    marginBottom: 20,
   },
   sendButton: {
     backgroundColor: '#E0E0E0',
