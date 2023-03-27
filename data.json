@@ -1,0 +1,14 @@
+{
+    "cars": {
+        "car1": {
+            "make": "Ford",
+            "model": "Mustang",
+            "imgPath": "img/mustang.jpg"
+        },
+        "car2": {
+            "make": "Toyota",
+            "model": "Camry",
+            "imgPath": "img/camry.jpg"
+        }
+    }
+}
