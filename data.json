@@ -1,14 +1,1155 @@
-{
-    "cars": {
-        "car1": {
-            "make": "Ford",
-            "model": "Mustang",
-            "imgPath": "img/mustang.jpg"
-        },
-        "car2": {
-            "make": "Toyota",
-            "model": "Camry",
-            "imgPath": "img/camry.jpg"
-        }
+[{
+        "make": "Acura",
+        "model": "ILX",
+        "imgPath": "Acura_ILX.jpg"
+    },
+    {
+        "make": "Audi",
+        "model": "R8",
+        "imgPath": "Audi_R8.jpg"
+    },
+    {
+        "make": "Hyundai",
+        "model": "Accent",
+        "imgPath": "Hyundai_Accent.jpg"
+    },
+    {
+        "make": "Ford",
+        "model": "Super Duty F-250",
+        "imgPath": "Ford_Super Duty F-250.jpg"
+    },
+    {
+        "make": "FIAT",
+        "model": "500e",
+        "imgPath": "FIAT_500e.jpg"
+    },
+    {
+        "make": "Porsche",
+        "model": "718",
+        "imgPath": "Porsche_718.jpg"
+    },
+    {
+        "make": "INFINITI",
+        "model": "QX80",
+        "imgPath": "INFINITI_QX80.jpg"
+    },
+    {
+        "make": "Nissan",
+        "model": "Sentra",
+        "imgPath": "Nissan_Sentra.jpg"
+    },
+    { "make": "Kia", "model": "K900", "imgPath": "Kia_K900.jpg" },
+    {
+        "make": "Kia",
+        "model": "Optima",
+        "imgPath": "Kia_Optima.jpg"
+    },
+    {
+        "make": "Mercedes-Benz",
+        "model": "SL Class",
+        "imgPath": "Mercedes-Benz_SL Class.jpg"
+    },
+    {
+        "make": "Ford",
+        "model": "Escape",
+        "imgPath": "Ford_Escape.jpg"
+    },
+    {
+        "make": "BMW",
+        "model": "5-Series",
+        "imgPath": "BMW_5-Series.jpg"
+    },
+    {
+        "make": "GMC",
+        "model": "Canyon",
+        "imgPath": "GMC_Canyon.jpg"
+    },
+    {
+        "make": "MINI",
+        "model": "Cooper Countryman",
+        "imgPath": "MINI_Cooper Countryman.jpg"
+    },
+    { "make": "BMW", "model": "X3", "imgPath": "BMW_X3.jpg" },
+    {
+        "make": "Toyota",
+        "model": "C-HR",
+        "imgPath": "Toyota_C-HR.jpg"
+    },
+    {
+        "make": "Mercedes-Benz",
+        "model": "CLS Class",
+        "imgPath": "Mercedes-Benz_CLS Class.jpg"
+    },
+    {
+        "make": "Jaguar",
+        "model": "F-Pace",
+        "imgPath": "Jaguar_F-Pace.jpg"
+    },
+    {
+        "make": "Kia",
+        "model": "Soul",
+        "imgPath": "Kia_Soul.jpg"
+    },
+    {
+        "make": "Chevrolet",
+        "model": "Traverse",
+        "imgPath": "Chevrolet_Traverse.jpg"
+    },
+    {
+        "make": "Honda",
+        "model": "Odyssey",
+        "imgPath": "Honda_Odyssey.jpg"
+    },
+    {
+        "make": "Mercedes-Benz",
+        "model": "CLA Class",
+        "imgPath": "Mercedes-Benz_CLA Class.jpg"
+    },
+    {
+        "make": "Nissan",
+        "model": "370Z",
+        "imgPath": "Nissan_370Z.jpg"
+    },
+    {
+        "make": "Subaru",
+        "model": "Outback",
+        "imgPath": "Subaru_Outback.jpg"
+    },
+    {
+        "make": "Acura",
+        "model": "RLX",
+        "imgPath": "Acura_RLX.jpg"
+    },
+    {
+        "make": "INFINITI",
+        "model": "Q60",
+        "imgPath": "INFINITI_Q60.jpg"
+    },
+    {
+        "make": "Buick",
+        "model": "Encore",
+        "imgPath": "Buick_Encore.jpg"
+    },
+    {
+        "make": "Kia",
+        "model": "Niro",
+        "imgPath": "Kia_Niro.jpg"
+    },
+    {
+        "make": "Mercedes-Benz",
+        "model": "E Class",
+        "imgPath": "Mercedes-Benz_E Class.jpg"
+    },
+    {
+        "make": "Chevrolet",
+        "model": "Silverado 1500",
+        "imgPath": "Chevrolet_Silverado 1500.jpg"
+    },
+    {
+        "make": "Ford",
+        "model": "Explorer",
+        "imgPath": "Ford_Explorer.jpg"
+    },
+    {
+        "make": "Porsche",
+        "model": "Cayenne",
+        "imgPath": "Porsche_Cayenne.jpg"
+    },
+    {
+        "make": "Chevrolet",
+        "model": "Colorado",
+        "imgPath": "Chevrolet_Colorado.jpg"
+    },
+    {
+        "make": "Ram",
+        "model": "1500",
+        "imgPath": "Ram_1500.jpg"
+    },
+    { "make": "Audi", "model": "A7", "imgPath": "Audi_A7.jpg" },
+    {
+        "make": "Mazda",
+        "model": "CX-3",
+        "imgPath": "Mazda_CX-3.jpg"
+    },
+    {
+        "make": "Jaguar",
+        "model": "F-Type",
+        "imgPath": "Jaguar_F-Type.jpg"
+    },
+    {
+        "make": "Honda",
+        "model": "Pilot",
+        "imgPath": "Honda_Pilot.jpg"
+    },
+    {
+        "make": "Chevrolet",
+        "model": "Impala",
+        "imgPath": "Chevrolet_Impala.jpg"
+    },
+    {
+        "make": "Mercedes-Benz",
+        "model": "G Class",
+        "imgPath": "Mercedes-Benz_G Class.jpg"
+    },
+    {
+        "make": "Chevrolet",
+        "model": "Volt",
+        "imgPath": "Chevrolet_Volt.jpg"
+    },
+    {
+        "make": "Lexus",
+        "model": "ES",
+        "imgPath": "Lexus_ES.jpg"
+    },
+    {
+        "make": "FIAT",
+        "model": "500L",
+        "imgPath": "FIAT_500L.jpg"
+    },
+    {
+        "make": "Mazda",
+        "model": "MX-5 Miata",
+        "imgPath": "Mazda_MX-5 Miata.jpg"
+    },
+    {
+        "make": "Buick",
+        "model": "Regal",
+        "imgPath": "Buick_Regal.jpg"
+    },
+    {
+        "make": "Lexus",
+        "model": "LS",
+        "imgPath": "Lexus_LS.jpg"
+    },
+    {
+        "make": "Rolls-Royce",
+        "model": "Ghost",
+        "imgPath": "Rolls-Royce_Ghost.jpg"
+    },
+    {
+        "make": "INFINITI",
+        "model": "QX60",
+        "imgPath": "INFINITI_QX60.jpg"
+    },
+    {
+        "make": "Volkswagen",
+        "model": "Beetle",
+        "imgPath": "Volkswagen_Beetle.jpg"
+    },
+    {
+        "make": "BMW",
+        "model": "4-Series",
+        "imgPath": "BMW_4-Series.jpg"
+    },
+    {
+        "make": "Maserati",
+        "model": "GranTurismo",
+        "imgPath": "Maserati_GranTurismo.jpg"
+    },
+    {
+        "make": "Lincoln",
+        "model": "Navigator",
+        "imgPath": "Lincoln_Navigator.jpg"
+    },
+    {
+        "make": "Toyota",
+        "model": "Avalon",
+        "imgPath": "Toyota_Avalon.jpg"
+    },
+    {
+        "make": "Land Rover",
+        "model": "Range Rover",
+        "imgPath": "Land Rover_Range Rover.jpg"
+    },
+    {
+        "make": "Toyota",
+        "model": "Tacoma",
+        "imgPath": "Toyota_Tacoma.jpg"
+    },
+    { "make": "Audi", "model": "A3", "imgPath": "Audi_A3.jpg" },
+    {
+        "make": "GMC",
+        "model": "Acadia",
+        "imgPath": "GMC_Acadia.jpg"
+    },
+    {
+        "make": "Nissan",
+        "model": "Leaf",
+        "imgPath": "Nissan_Leaf.jpg"
+    },
+    {
+        "make": "Rolls-Royce",
+        "model": "Phantom",
+        "imgPath": "Rolls-Royce_Phantom.jpg"
+    },
+    {
+        "make": "Honda",
+        "model": "Insight",
+        "imgPath": "Honda_Insight.jpg"
+    },
+    {
+        "make": "GMC",
+        "model": "Yukon",
+        "imgPath": "GMC_Yukon.jpg"
+    },
+    {
+        "make": "Honda",
+        "model": "Ridgeline",
+        "imgPath": "Honda_Ridgeline.jpg"
+    },
+    {
+        "make": "Subaru",
+        "model": "WRX",
+        "imgPath": "Subaru_WRX.jpg"
+    },
+    {
+        "make": "Mitsubishi",
+        "model": "Mirage",
+        "imgPath": "Mitsubishi_Mirage.jpg"
+    },
+    {
+        "make": "Nissan",
+        "model": "Murano",
+        "imgPath": "Nissan_Murano.jpg"
+    },
+    {
+        "make": "Buick",
+        "model": "Cascada",
+        "imgPath": "Buick_Cascada.jpg"
+    },
+    {
+        "make": "Subaru",
+        "model": "Legacy",
+        "imgPath": "Subaru_Legacy.jpg"
+    },
+    {
+        "make": "Toyota",
+        "model": "Corolla",
+        "imgPath": "Toyota_Corolla.jpg"
+    },
+    {
+        "make": "Honda",
+        "model": "Civic",
+        "imgPath": "Honda_Civic.jpg"
+    },
+    {
+        "make": "Ford",
+        "model": "Taurus",
+        "imgPath": "Ford_Taurus.jpg"
+    },
+    {
+        "make": "Maserati",
+        "model": "Levante",
+        "imgPath": "Maserati_Levante.jpg"
+    },
+    {
+        "make": "Ford",
+        "model": "Fusion",
+        "imgPath": "Ford_Fusion.jpg"
+    },
+    {
+        "make": "Ford",
+        "model": "Edge",
+        "imgPath": "Ford_Edge.jpg"
+    },
+    {
+        "make": "Lamborghini",
+        "model": "Huracan",
+        "imgPath": "Lamborghini_Huracan.jpg"
+    },
+    {
+        "make": "smart",
+        "model": "fortwo",
+        "imgPath": "smart_fortwo.jpg"
+    },
+    {
+        "make": "INFINITI",
+        "model": "Q50",
+        "imgPath": "INFINITI_Q50.jpg"
+    },
+    {
+        "make": "Bentley",
+        "model": "Bentayga",
+        "imgPath": "Bentley_Bentayga.jpg"
+    },
+    {
+        "make": "Mercedes-Benz",
+        "model": "GLB Class",
+        "imgPath": "Mercedes-Benz_GLB Class.jpg"
+    },
+    {
+        "make": "Jeep",
+        "model": "Compass",
+        "imgPath": "Jeep_Compass.jpg"
+    },
+    {
+        "make": "Hyundai",
+        "model": "Elantra",
+        "imgPath": "Hyundai_Elantra.jpg"
+    },
+    {
+        "make": "Ford",
+        "model": "Expedition",
+        "imgPath": "Ford_Expedition.jpg"
+    },
+    {
+        "make": "Cadillac",
+        "model": "Escalade",
+        "imgPath": "Cadillac_Escalade.jpg"
+    },
+    {
+        "make": "Dodge",
+        "model": "Charger",
+        "imgPath": "Dodge_Charger.jpg"
+    },
+    {
+        "make": "Chevrolet",
+        "model": "Tahoe",
+        "imgPath": "Chevrolet_Tahoe.jpg"
+    },
+    { "make": "BMW", "model": "X1", "imgPath": "BMW_X1.jpg" },
+    {
+        "make": "Lincoln",
+        "model": "Aviator",
+        "imgPath": "Lincoln_Aviator.jpg"
+    },
+    {
+        "make": "Subaru",
+        "model": "BRZ",
+        "imgPath": "Subaru_BRZ.jpg"
+    },
+    {
+        "make": "Jaguar",
+        "model": "XJ",
+        "imgPath": "Jaguar_XJ.jpg"
+    },
+    { "make": "Audi", "model": "Q3", "imgPath": "Audi_Q3.jpg" },
+    { "make": "BMW", "model": "X4", "imgPath": "BMW_X4.jpg" },
+    {
+        "make": "Chevrolet",
+        "model": "Trax",
+        "imgPath": "Chevrolet_Trax.jpg"
+    },
+    {
+        "make": "Bentley",
+        "model": "Mulsanne",
+        "imgPath": "Bentley_Mulsanne.jpg"
+    },
+    { "make": "BMW", "model": "Z4", "imgPath": "BMW_Z4.jpg" },
+    {
+        "make": "Chevrolet",
+        "model": "Sonic",
+        "imgPath": "Chevrolet_Sonic.jpg"
+    },
+    {
+        "make": "Toyota",
+        "model": "86",
+        "imgPath": "Toyota_86.jpg"
+    },
+    {
+        "make": "Nissan",
+        "model": "Rogue",
+        "imgPath": "Nissan_Rogue.jpg"
+    },
+    { "make": "Audi", "model": "TT", "imgPath": "Audi_TT.jpg" },
+    { "make": "BMW", "model": "X6", "imgPath": "BMW_X6.jpg" },
+    {
+        "make": "Volvo",
+        "model": "V60",
+        "imgPath": "Volvo_V60.jpg"
+    },
+    {
+        "make": "Lexus",
+        "model": "LX",
+        "imgPath": "Lexus_LX.jpg"
+    },
+    {
+        "make": "Chrysler",
+        "model": "300",
+        "imgPath": "Chrysler_300.jpg"
+    },
+    {
+        "make": "Dodge",
+        "model": "Grand Caravan",
+        "imgPath": "Dodge_Grand Caravan.jpg"
+    },
+    {
+        "make": "Volkswagen",
+        "model": "Golf",
+        "imgPath": "Volkswagen_Golf.jpg"
+    },
+    {
+        "make": "Bentley",
+        "model": "Flying Spur",
+        "imgPath": "Bentley_Flying Spur.jpg"
+    },
+    {
+        "make": "Mitsubishi",
+        "model": "Outlander",
+        "imgPath": "Mitsubishi_Outlander.jpg"
+    },
+    {
+        "make": "Land Rover",
+        "model": "Range Rover Evoque",
+        "imgPath": "Land Rover_Range Rover Evoque.jpg"
+    },
+    {
+        "make": "Acura",
+        "model": "MDX",
+        "imgPath": "Acura_MDX.jpg"
+    },
+    {
+        "make": "Mercedes-Benz",
+        "model": "AMG GT",
+        "imgPath": "Mercedes-Benz_AMG GT.jpg"
+    },
+    {
+        "make": "Chevrolet",
+        "model": "Malibu",
+        "imgPath": "Chevrolet_Malibu.jpg"
+    },
+    {
+        "make": "Acura",
+        "model": "TLX",
+        "imgPath": "Acura_TLX.jpg"
+    },
+    {
+        "make": "Maserati",
+        "model": "Quattroporte",
+        "imgPath": "Maserati_Quattroporte.jpg"
+    },
+    {
+        "make": "Jeep",
+        "model": "Grand Cherokee",
+        "imgPath": "Jeep_Grand Cherokee.jpg"
+    },
+    { "make": "Audi", "model": "A4", "imgPath": "Audi_A4.jpg" },
+    {
+        "make": "Subaru",
+        "model": "Crosstrek",
+        "imgPath": "Subaru_Crosstrek.jpg"
+    },
+    {
+        "make": "Porsche",
+        "model": "911",
+        "imgPath": "Porsche_911.jpg"
+    },
+    {
+        "make": "Honda",
+        "model": "CR-V",
+        "imgPath": "Honda_CR-V.jpg"
+    },
+    {
+        "make": "MINI",
+        "model": "Cooper",
+        "imgPath": "MINI_Cooper.jpg"
+    },
+    {
+        "make": "FIAT",
+        "model": "124 Spider",
+        "imgPath": "FIAT_124 Spider.jpg"
+    },
+    {
+        "make": "Lincoln",
+        "model": "MKT",
+        "imgPath": "Lincoln_MKT.jpg"
+    },
+    {
+        "make": "Mercedes-Benz",
+        "model": "GLA Class",
+        "imgPath": "Mercedes-Benz_GLA Class.jpg"
+    },
+    {
+        "make": "FIAT",
+        "model": "500",
+        "imgPath": "FIAT_500.jpg"
+    },
+    {
+        "make": "Mercedes-Benz",
+        "model": "Metris",
+        "imgPath": "Mercedes-Benz_Metris.jpg"
+    },
+    {
+        "make": "Honda",
+        "model": "Accord",
+        "imgPath": "Honda_Accord.jpg"
+    },
+    {
+        "make": "Mercedes-Benz",
+        "model": "GLS Class",
+        "imgPath": "Mercedes-Benz_GLS Class.jpg"
+    },
+    {
+        "make": "Hyundai",
+        "model": "Veloster",
+        "imgPath": "Hyundai_Veloster.jpg"
+    },
+    {
+        "make": "BMW",
+        "model": "3-Series",
+        "imgPath": "BMW_3-Series.jpg"
+    },
+    {
+        "make": "Lincoln",
+        "model": "MKC",
+        "imgPath": "Lincoln_MKC.jpg"
+    },
+    {
+        "make": "Dodge",
+        "model": "Challenger",
+        "imgPath": "Dodge_Challenger.jpg"
+    },
+    {
+        "make": "GMC",
+        "model": "Terrain",
+        "imgPath": "GMC_Terrain.jpg"
+    },
+    {
+        "make": "Toyota",
+        "model": "Sequoia",
+        "imgPath": "Toyota_Sequoia.jpg"
+    },
+    {
+        "make": "Jeep",
+        "model": "Cherokee",
+        "imgPath": "Jeep_Cherokee.jpg"
+    },
+    { "make": "Audi", "model": "A5", "imgPath": "Audi_A5.jpg" },
+    {
+        "make": "Volvo",
+        "model": "V90",
+        "imgPath": "Volvo_V90.jpg"
+    },
+    {
+        "make": "Acura",
+        "model": "NSX",
+        "imgPath": "Acura_NSX.jpg"
+    },
+    {
+        "make": "Chevrolet",
+        "model": "Spark",
+        "imgPath": "Chevrolet_Spark.jpg"
+    },
+    {
+        "make": "Toyota",
+        "model": "Prius C",
+        "imgPath": "Toyota_Prius C.jpg"
+    },
+    {
+        "make": "Jeep",
+        "model": "Wrangler",
+        "imgPath": "Jeep_Wrangler.jpg"
+    },
+    {
+        "make": "Chevrolet",
+        "model": "Blazer",
+        "imgPath": "Chevrolet_Blazer.jpg"
+    },
+    {
+        "make": "BMW",
+        "model": "6-Series",
+        "imgPath": "BMW_6-Series.jpg"
+    },
+    {
+        "make": "Mazda",
+        "model": "MAZDA3",
+        "imgPath": "Mazda_MAZDA3.jpg"
+    },
+    {
+        "make": "Aston Martin",
+        "model": "DBS",
+        "imgPath": "Aston Martin_DBS.jpg"
+    },
+    {
+        "make": "Hyundai",
+        "model": "Santa Fe",
+        "imgPath": "Hyundai_Santa Fe.jpg"
+    },
+    {
+        "make": "Volvo",
+        "model": "XC60",
+        "imgPath": "Volvo_XC60.jpg"
+    },
+    {
+        "make": "Dodge",
+        "model": "Durango",
+        "imgPath": "Dodge_Durango.jpg"
+    },
+    {
+        "make": "Aston Martin",
+        "model": "DB11",
+        "imgPath": "Aston Martin_DB11.jpg"
+    },
+    {
+        "make": "Nissan",
+        "model": "Frontier",
+        "imgPath": "Nissan_Frontier.jpg"
+    },
+    {
+        "make": "Bentley",
+        "model": "Continental GT",
+        "imgPath": "Bentley_Continental GT.jpg"
+    },
+    {
+        "make": "Acura",
+        "model": "RDX",
+        "imgPath": "Acura_RDX.jpg"
+    },
+    {
+        "make": "Alfa Romeo",
+        "model": "Giulia",
+        "imgPath": "Alfa Romeo_Giulia.jpg"
+    },
+    {
+        "make": "Buick",
+        "model": "Lacrosse",
+        "imgPath": "Buick_Lacrosse.jpg"
+    },
+    {
+        "make": "Ford",
+        "model": "Transit Connect Wagon",
+        "imgPath": "Ford_Transit Connect Wagon.jpg"
+    },
+    {
+        "make": "Hyundai",
+        "model": "Tucson",
+        "imgPath": "Hyundai_Tucson.jpg"
+    },
+    {
+        "make": "Chrysler",
+        "model": "Pacifica",
+        "imgPath": "Chrysler_Pacifica.jpg"
+    },
+    {
+        "make": "Volvo",
+        "model": "S60",
+        "imgPath": "Volvo_S60.jpg"
+    },
+    {
+        "make": "Mitsubishi",
+        "model": "Outlander Sport",
+        "imgPath": "Mitsubishi_Outlander Sport.jpg"
+    },
+    {
+        "make": "Mercedes-Benz",
+        "model": "C Class",
+        "imgPath": "Mercedes-Benz_C Class.jpg"
+    },
+    {
+        "make": "Land Rover",
+        "model": "Discovery Sport",
+        "imgPath": "Land Rover_Discovery Sport.jpg"
+    },
+    {
+        "make": "Volkswagen",
+        "model": "Passat",
+        "imgPath": "Volkswagen_Passat.jpg"
+    },
+    {
+        "make": "Tesla",
+        "model": "Model X",
+        "imgPath": "Tesla_Model X.jpg"
+    },
+    {
+        "make": "Toyota",
+        "model": "RAV4",
+        "imgPath": "Toyota_RAV4.jpg"
+    },
+    {
+        "make": "Volvo",
+        "model": "S90",
+        "imgPath": "Volvo_S90.jpg"
+    },
+    {
+        "make": "Lexus",
+        "model": "IS",
+        "imgPath": "Lexus_IS.jpg"
+    },
+    { "make": "Audi", "model": "Q8", "imgPath": "Audi_Q8.jpg" },
+    {
+        "make": "Volkswagen",
+        "model": "Tiguan",
+        "imgPath": "Volkswagen_Tiguan.jpg"
+    },
+    {
+        "make": "Toyota",
+        "model": "Yaris",
+        "imgPath": "Toyota_Yaris.jpg"
+    },
+    {
+        "make": "INFINITI",
+        "model": "QX50",
+        "imgPath": "INFINITI_QX50.jpg"
+    },
+    {
+        "make": "Tesla",
+        "model": "Model S",
+        "imgPath": "Tesla_Model S.jpg"
+    },
+    {
+        "make": "Chevrolet",
+        "model": "TrailBlazer",
+        "imgPath": "Chevrolet_TrailBlazer.jpg"
+    },
+    {
+        "make": "Cadillac",
+        "model": "ATS",
+        "imgPath": "Cadillac_ATS.jpg"
+    },
+    {
+        "make": "Aston Martin",
+        "model": "Vantage",
+        "imgPath": "Aston Martin_Vantage.jpg"
+    },
+    {
+        "make": "Lexus",
+        "model": "GS",
+        "imgPath": "Lexus_GS.jpg"
+    },
+    {
+        "make": "Mercedes-Benz",
+        "model": "GLC Class",
+        "imgPath": "Mercedes-Benz_GLC Class.jpg"
+    },
+    {
+        "make": "Chevrolet",
+        "model": "Suburban",
+        "imgPath": "Chevrolet_Suburban.jpg"
+    },
+    {
+        "make": "McLaren",
+        "model": "570S",
+        "imgPath": "McLaren_570S.jpg"
+    },
+    {
+        "make": "Kia",
+        "model": "Soul EV",
+        "imgPath": "Kia_Soul EV.jpg"
+    },
+    {
+        "make": "Chevrolet",
+        "model": "Camaro",
+        "imgPath": "Chevrolet_Camaro.jpg"
+    },
+    {
+        "make": "Maserati",
+        "model": "Ghibli",
+        "imgPath": "Maserati_Ghibli.jpg"
+    },
+    {
+        "make": "Porsche",
+        "model": "Panamera",
+        "imgPath": "Porsche_Panamera.jpg"
+    },
+    {
+        "make": "Honda",
+        "model": "Passport",
+        "imgPath": "Honda_Passport.jpg"
+    },
+    { "make": "BMW", "model": "X5", "imgPath": "BMW_X5.jpg" },
+    {
+        "make": "Toyota",
+        "model": "Land Cruiser",
+        "imgPath": "Toyota_Land Cruiser.jpg"
+    },
+    { "make": "Audi", "model": "Q7", "imgPath": "Audi_Q7.jpg" },
+    {
+        "make": "Chevrolet",
+        "model": "Corvette",
+        "imgPath": "Chevrolet_Corvette.jpg"
+    },
+    {
+        "make": "Rolls-Royce",
+        "model": "Wraith",
+        "imgPath": "Rolls-Royce_Wraith.jpg"
+    },
+    {
+        "make": "Genesis",
+        "model": "G90",
+        "imgPath": "Genesis_G90.jpg"
+    },
+    {
+        "make": "Ford",
+        "model": "Fiesta",
+        "imgPath": "Ford_Fiesta.jpg"
+    },
+    {
+        "make": "BMW",
+        "model": "2-Series",
+        "imgPath": "BMW_2-Series.jpg"
+    },
+    {
+        "make": "Alfa Romeo",
+        "model": "4C",
+        "imgPath": "Alfa Romeo_4C.jpg"
+    },
+    {
+        "make": "Audi",
+        "model": "A6",
+        "imgPath": "Audi_A6.jpg"
+    },
+    {
+        "make": "Chevrolet",
+        "model": "Cruze",
+        "imgPath": "Chevrolet_Cruze.jpg"
+    },
+    {
+        "make": "Ford",
+        "model": "F-150",
+        "imgPath": "Ford_F-150.jpg"
+    },
+    {
+        "make": "Lincoln",
+        "model": "Nautilus",
+        "imgPath": "Lincoln_Nautilus.jpg"
+    },
+    {
+        "make": "Ford",
+        "model": "Flex",
+        "imgPath": "Ford_Flex.jpg"
+    },
+    {
+        "make": "Volkswagen",
+        "model": "Jetta",
+        "imgPath": "Volkswagen_Jetta.jpg"
+    },
+    {
+        "make": "Mazda",
+        "model": "CX-9",
+        "imgPath": "Mazda_CX-9.jpg"
+    },
+    {
+        "make": "Ford",
+        "model": "Mustang",
+        "imgPath": "Ford_Mustang.jpg"
+    },
+    {
+        "make": "Nissan",
+        "model": "Versa",
+        "imgPath": "Nissan_Versa.jpg"
+    },
+    { "make": "Audi", "model": "A8", "imgPath": "Audi_A8.jpg" },
+    {
+        "make": "Lexus",
+        "model": "NX",
+        "imgPath": "Lexus_NX.jpg"
+    },
+    {
+        "make": "Aston Martin",
+        "model": "Vanquish",
+        "imgPath": "Aston Martin_Vanquish.jpg"
+    },
+    {
+        "make": "Toyota",
+        "model": "Camry",
+        "imgPath": "Toyota_Camry.jpg"
+    },
+    {
+        "make": "Buick",
+        "model": "Enclave",
+        "imgPath": "Buick_Enclave.jpg"
+    },
+    { "make": "Kia", "model": "Rio", "imgPath": "Kia_Rio.jpg" },
+    {
+        "make": "Cadillac",
+        "model": "CTS",
+        "imgPath": "Cadillac_CTS.jpg"
+    },
+    {
+        "make": "Kia",
+        "model": "Cadenza",
+        "imgPath": "Kia_Cadenza.jpg"
+    },
+    {
+        "make": "Nissan",
+        "model": "Armada",
+        "imgPath": "Nissan_Armada.jpg"
+    },
+    {
+        "make": "Toyota",
+        "model": "Highlander",
+        "imgPath": "Toyota_Highlander.jpg"
+    },
+    {
+        "make": "Volvo",
+        "model": "XC90",
+        "imgPath": "Volvo_XC90.jpg"
+    },
+    {
+        "make": "Mazda",
+        "model": "CX-5",
+        "imgPath": "Mazda_CX-5.jpg"
+    },
+    {
+        "make": "Jeep",
+        "model": "Renegade",
+        "imgPath": "Jeep_Renegade.jpg"
+    },
+    {
+        "make": "Toyota",
+        "model": "Prius",
+        "imgPath": "Toyota_Prius.jpg"
+    },
+    {
+        "make": "Mercedes-Benz",
+        "model": "GLE Class",
+        "imgPath": "Mercedes-Benz_GLE Class.jpg"
+    },
+    {
+        "make": "Kia",
+        "model": "Sportage",
+        "imgPath": "Kia_Sportage.jpg"
+    },
+    {
+        "make": "MINI",
+        "model": "Clubman",
+        "imgPath": "MINI_Clubman.jpg"
+    },
+    {
+        "make": "Toyota",
+        "model": "Sienna",
+        "imgPath": "Toyota_Sienna.jpg"
+    },
+    { "make": "BMW", "model": "i3", "imgPath": "BMW_i3.jpg" },
+    {
+        "make": "Porsche",
+        "model": "Macan",
+        "imgPath": "Porsche_Macan.jpg"
+    },
+    {
+        "make": "Jaguar",
+        "model": "XE",
+        "imgPath": "Jaguar_XE.jpg"
+    },
+    {
+        "make": "Dodge",
+        "model": "Journey",
+        "imgPath": "Dodge_Journey.jpg"
+    },
+    {
+        "make": "Lexus",
+        "model": "RX",
+        "imgPath": "Lexus_RX.jpg"
+    },
+    {
+        "make": "Ram",
+        "model": "2500",
+        "imgPath": "Ram_2500.jpg"
+    },
+    {
+        "make": "Lexus",
+        "model": "GX",
+        "imgPath": "Lexus_GX.jpg"
+    },
+    {
+        "make": "Kia",
+        "model": "Forte",
+        "imgPath": "Kia_Forte.jpg"
+    },
+    {
+        "make": "Nissan",
+        "model": "Maxima",
+        "imgPath": "Nissan_Maxima.jpg"
+    },
+    {
+        "make": "Honda",
+        "model": "HR-V",
+        "imgPath": "Honda_HR-V.jpg"
+    },
+    {
+        "make": "Ford",
+        "model": "Ranger",
+        "imgPath": "Ford_Ranger.jpg"
+    },
+    {
+        "make": "Ferrari",
+        "model": "488 GTB",
+        "imgPath": "Ferrari_488 GTB.jpg"
+    },
+    {
+        "make": "Lexus",
+        "model": "RC",
+        "imgPath": "Lexus_RC.jpg"
+    },
+    {
+        "make": "FIAT",
+        "model": "500X",
+        "imgPath": "FIAT_500X.jpg"
+    },
+    {
+        "make": "INFINITI",
+        "model": "Q70",
+        "imgPath": "INFINITI_Q70.jpg"
+    },
+    {
+        "make": "Hyundai",
+        "model": "Ioniq",
+        "imgPath": "Hyundai_Ioniq.jpg"
+    },
+    {
+        "make": "Land Rover",
+        "model": "Range Rover Sport",
+        "imgPath": "Land Rover_Range Rover Sport.jpg"
+    },
+    {
+        "make": "Mazda",
+        "model": "MAZDA6",
+        "imgPath": "Mazda_MAZDA6.jpg"
+    },
+    {
+        "make": "Nissan",
+        "model": "Titan",
+        "imgPath": "Nissan_Titan.jpg"
+    },
+    {
+        "make": "Nissan",
+        "model": "GT-R",
+        "imgPath": "Nissan_GT-R.jpg"
+    },
+    {
+        "make": "Toyota",
+        "model": "Tundra",
+        "imgPath": "Toyota_Tundra.jpg"
+    },
+    {
+        "make": "GMC",
+        "model": "Sierra 1500",
+        "imgPath": "GMC_Sierra 1500.jpg"
+    },
+    {
+        "make": "Mercedes-Benz",
+        "model": "S Class",
+        "imgPath": "Mercedes-Benz_S Class.jpg"
+    },
+    {
+        "make": "Hyundai",
+        "model": "Sonata",
+        "imgPath": "Hyundai_Sonata.jpg"
+    },
+    {
+        "make": "Chevrolet",
+        "model": "Equinox",
+        "imgPath": "Chevrolet_Equinox.jpg"
+    },
+    {
+        "make": "BMW",
+        "model": "7-Series",
+        "imgPath": "BMW_7-Series.jpg"
+    },
+    {
+        "make": "Toyota",
+        "model": "4Runner",
+        "imgPath": "Toyota_4Runner.jpg"
+    },
+    { "make": "Audi", "model": "Q5", "imgPath": "Audi_Q5.jpg" },
+    {
+        "make": "Honda",
+        "model": "Fit",
+        "imgPath": "Honda_Fit.jpg"
+    },
+    {
+        "make": "Nissan",
+        "model": "Pathfinder",
+        "imgPath": "Nissan_Pathfinder.jpg"
     }
-}
+]
